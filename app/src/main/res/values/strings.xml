@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jog On</string>
+    <string name="tab_text_1">Results</string>
+    <string name="tab_text_2">Data</string>
+</resources>
