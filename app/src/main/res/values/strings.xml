@@ -2,4 +2,15 @@
     <string name="app_name">Jog On</string>
     <string name="tab_text_1">Results</string>
     <string name="tab_text_2">Data</string>
+    <string name="distance">Distance</string>
+    <string name="ZERO">0.00</string>
+    <string name="seconds">Secs</string>
+    <string name="minutes">Mins</string>
+    <string name="hours">Hrs</string>
+    <string name="AddDetails">Add your run details below:</string>
+
+    <string-array name="distances">
+        <item>KM</item>
+        <item>Miles</item>
+    </string-array>
 </resources>
